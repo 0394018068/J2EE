@@ -2,58 +2,28 @@
   "posts": [
     {
       "id": "1",
-      "title": "a title",
-      "views": 100,
-      "isDeleted": false
+      "title": "Bài viết số 1",
+      "views": 120,
+      "deleted": true
     },
     {
-      "id": "2",
-      "title": "another title",
-      "views": 200,
-      "isDeleted": false
+      "id": "84f1",
+      "title": "Test1",
+      "views": "100",
+      "deleted": false
     },
     {
-      "id": "3",
-      "title": "Sách",
-      "views": "500",
-      "isDeleted": true
-    },
-    {
-      "id": "4",
-      "title": "IT Coder",
-      "views": "",
-      "isDeleted": true
-    },
-    {
-      "id": "5",
-      "title": "Báo chí",
-      "views": "1000",
-      "isDeleted": false
+      "id": "99d9",
+      "title": "Test3",
+      "views": "100",
+      "deleted": false
     }
   ],
   "comments": [
     {
       "id": "1",
-      "text": "a comment about post 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "text": "another comment about post 1",
-      "postId": "1"
-    },
-    {
-      "id": "43df",
-      "postId": "2",
-      "text": "Oke hehehe"
-    },
-    {
-      "id": "41aa",
-      "postId": "4",
-      "text": "Chào bạn"
+      "postId": 1,
+      "content": "Bài viết rất hay"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
